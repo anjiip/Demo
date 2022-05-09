@@ -1,0 +1,10 @@
+Val,Department,salary,Val
+0,sales,low,0
+1,accounting,medium,1
+2,hr,high,2
+3,technical,,
+4,support,,
+5,management,,
+6,IT,,
+7,marketing,,
+8,product_mng,,
